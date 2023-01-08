@@ -5,7 +5,7 @@ Date started: 08.01.2023
 Date completed: 08.01.2023
 
 ## Template
-The template idea was sourced from this image found on Pinterest: [text](https://i.pinimg.com/originals/de/fb/80/defb809ac4e5d09d2708c76f3e5c16df.jpg)
+The template idea was sourced from this image found on[Pinterest](https://i.pinimg.com/originals/de/fb/80/defb809ac4e5d09d2708c76f3e5c16df.jpg):
 
 ![preview](template-preview.png)
 
